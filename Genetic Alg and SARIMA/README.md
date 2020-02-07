@@ -12,13 +12,13 @@ To run the brute force algorithm:
 
 To run the genetic algorithm:
 
-```python3 main.py```
+```paper6--GA--SARIMAXandarima.ipynb```
 
  To plot the forecasting and other figures:
  
  use this file
  
-```Serial SARIMA- plots model.ipynb```
+```SerialSARIMA-plotsmodel.ipynb```
 
 You can set your SARIMA parameter choices by editing each of those files first. You can also choose whether to use the NCDC or other datasets. 
 
