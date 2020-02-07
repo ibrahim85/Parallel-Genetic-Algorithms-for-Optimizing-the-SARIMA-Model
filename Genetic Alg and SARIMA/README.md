@@ -20,7 +20,13 @@ To run the genetic algorithm:
  
 ```Serial SARIMA-plots model.ipynb```
 
+# How to use Google Colab to run the code
+
+https://www.geeksforgeeks.org/how-to-use-google-colab/
+
 You can set your SARIMA parameter choices by editing each of those files first. You can also choose whether to use the NCDC or other datasets. 
+
+
 
 ## License
 
