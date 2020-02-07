@@ -12,13 +12,13 @@ To run the brute force algorithm:
 
 To run the genetic algorithm:
 
-```paper6--GA--SARIMAXandarima.ipynb```
+```paper6--GA--SARIMAX and arima.ipynb```
 
  To plot the forecasting and other figures:
  
  use this file
  
-```SerialSARIMA-plotsmodel.ipynb```
+```Serial SARIMA-plots model.ipynb```
 
 You can set your SARIMA parameter choices by editing each of those files first. You can also choose whether to use the NCDC or other datasets. 
 
