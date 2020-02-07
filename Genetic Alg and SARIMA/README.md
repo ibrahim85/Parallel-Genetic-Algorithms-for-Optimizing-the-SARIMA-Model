@@ -26,7 +26,7 @@ https://www.geeksforgeeks.org/how-to-use-google-colab/
 
 You can set your SARIMA parameter choices by editing each of those files first. You can also choose whether to use the NCDC or other datasets. 
 
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ibrahim85/Genetic-Alg-and-SARIMA/blob/master/Genetic%20Alg%20and%20SARIMA/Serial%20SARIMA-%20plots%20model.ipynb)
 
 ## License
 
