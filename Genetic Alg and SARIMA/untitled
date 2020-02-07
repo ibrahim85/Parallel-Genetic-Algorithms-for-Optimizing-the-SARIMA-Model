@@ -1,0 +1,31 @@
+$$$$$$$$$$$$$$$$$$$$ normal $$$$$$$$$$$$$$$$$
+
+12/06/2018 03:53:14 PM - INFO - {'p_values': 4, 'd_values': 0, 'q_values': 0, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+12/06/2018 03:53:14 PM - INFO - Network accuracy: 24311.44%
+
+$$$$$$$$$$$$$$$$$$$$ log $$$$$$$$$$$$$$$$$
+12/06/2018 04:03:18 PM - INFO - {'p_values': 1, 'd_values': 1, 'q_values': 0, 'sp_values': 1, 'sd_values': 0, 'sq_values': 2}
+12/06/2018 04:03:18 PM - INFO - Network accuracy: -30551.61%
+
+$$$$$$$$$$$$$$$$$$$$ loglog $$$$$$$$$$$$$$$$$
+
+12/06/2018 04:11:27 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 1, 'sp_values': 1, 'sd_values': 0, 'sq_values': 0}
+12/06/2018 04:11:27 PM - INFO - Network accuracy: -48978.88%
+
+
+--------------------monthly-----------------------
+$$$$$$$$$$$$$$$$$$$$ normal $$$$$$$$$$$$$$$$$
+12/06/2018 08:58:50 PM - INFO - {'p_values': 4, 'd_values': 0, 'q_values': 0, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+12/06/2018 08:58:50 PM - INFO - Network accuracy: 429.68%
+
+$$$$$$$$$$$$$$$$$$$$ normalized $$$$$$$$$$$$$
+12/06/2018 09:36:06 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 2, 'sp_values': 1, 'sd_values': 0, 'sq_values': 1}
+12/06/2018 09:36:06 PM - INFO - Network accuracy: -153.99%
+
+$$$$$$$$$$$$$$$$$$$$ log $$$$$$$$$$$$$$$$$
+12/06/2018 09:02:21 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 0, 'sp_values': 1, 'sd_values': 0, 'sq_values': 1}
+12/06/2018 09:02:21 PM - INFO - Network accuracy: -1094.34%
+
+$$$$$$$$$$$$$$$$$$$$ loglog $$$$$$$$$$$$$$$$$
+12/06/2018 09:05:34 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 0, 'sp_values': 0, 'sd_values': 1, 'sq_values': 1}
+12/06/2018 09:05:34 PM - INFO - Network accuracy: -1562.37%

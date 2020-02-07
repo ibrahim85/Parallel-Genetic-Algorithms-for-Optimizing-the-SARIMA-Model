@@ -1,0 +1,784 @@
+07/25/2018 02:25:43 PM - INFO - ***Evolving 3 generations with population 20***
+07/25/2018 02:25:43 PM - INFO - ***Doing generation 1 of 3***
+07/25/2018 02:25:43 PM - INFO - Getting arima datasets
+07/25/2018 02:26:26 PM - INFO - ***Evolving 3 generations with population 20***
+07/25/2018 02:26:26 PM - INFO - ***Doing generation 1 of 3***
+07/25/2018 02:26:26 PM - INFO - Getting arima datasets
+07/25/2018 02:27:10 PM - INFO - ***Evolving 3 generations with population 20***
+07/25/2018 02:27:10 PM - INFO - ***Doing generation 1 of 3***
+07/25/2018 02:27:10 PM - INFO - Getting arima datasets
+07/25/2018 02:27:46 PM - INFO - ***Evolving 3 generations with population 20***
+07/25/2018 02:27:46 PM - INFO - ***Doing generation 1 of 3***
+07/25/2018 02:27:46 PM - INFO - Getting arima datasets
+07/25/2018 02:27:53 PM - INFO - Compling arima model
+07/25/2018 02:27:53 PM - INFO - SARIMAX: (4, 1, 1) x (1, 0, 0, 12)
+07/25/2018 02:27:53 PM - INFO - Getting arima datasets
+07/25/2018 02:28:00 PM - INFO - Compling arima model
+07/25/2018 02:28:00 PM - INFO - SARIMAX: (8, 0, 1) x (8, 1, 1, 12)
+07/25/2018 02:28:00 PM - INFO - Getting arima datasets
+07/25/2018 02:28:07 PM - INFO - Compling arima model
+07/25/2018 02:28:07 PM - INFO - SARIMAX: (4, 0, 2) x (4, 1, 2, 12)
+07/25/2018 02:28:25 PM - INFO - Getting arima datasets
+07/25/2018 02:28:31 PM - INFO - Compling arima model
+07/25/2018 02:28:31 PM - INFO - SARIMAX: (0, 2, 0) x (1, 1, 1, 12)
+07/25/2018 02:28:31 PM - INFO - Getting arima datasets
+07/25/2018 02:28:38 PM - INFO - Compling arima model
+07/25/2018 02:28:38 PM - INFO - SARIMAX: (0, 2, 1) x (8, 2, 1, 12)
+07/25/2018 02:28:38 PM - INFO - Getting arima datasets
+07/25/2018 02:28:45 PM - INFO - Compling arima model
+07/25/2018 02:28:45 PM - INFO - SARIMAX: (6, 0, 2) x (0, 1, 1, 12)
+07/25/2018 02:28:47 PM - INFO - Getting arima datasets
+07/25/2018 02:28:53 PM - INFO - Compling arima model
+07/25/2018 02:28:53 PM - INFO - SARIMAX: (1, 1, 2) x (4, 2, 0, 12)
+07/25/2018 02:29:01 PM - INFO - Getting arima datasets
+07/25/2018 02:29:07 PM - INFO - Compling arima model
+07/25/2018 02:29:07 PM - INFO - SARIMAX: (10, 2, 2) x (0, 2, 2, 12)
+07/25/2018 02:29:08 PM - INFO - Getting arima datasets
+07/25/2018 02:29:14 PM - INFO - Compling arima model
+07/25/2018 02:29:14 PM - INFO - SARIMAX: (1, 1, 1) x (0, 1, 1, 12)
+07/25/2018 02:29:15 PM - INFO - Getting arima datasets
+07/25/2018 02:29:21 PM - INFO - Compling arima model
+07/25/2018 02:29:21 PM - INFO - SARIMAX: (1, 0, 1) x (1, 1, 2, 12)
+07/25/2018 02:29:23 PM - INFO - Getting arima datasets
+07/25/2018 02:29:30 PM - INFO - Compling arima model
+07/25/2018 02:29:30 PM - INFO - SARIMAX: (10, 1, 1) x (8, 1, 0, 12)
+07/25/2018 02:29:30 PM - INFO - Getting arima datasets
+07/25/2018 02:29:37 PM - INFO - Compling arima model
+07/25/2018 02:29:37 PM - INFO - SARIMAX: (6, 2, 2) x (0, 0, 0, 12)
+07/25/2018 02:29:37 PM - INFO - Getting arima datasets
+07/25/2018 02:29:43 PM - INFO - Compling arima model
+07/25/2018 02:29:43 PM - INFO - SARIMAX: (1, 2, 1) x (4, 0, 0, 12)
+07/25/2018 02:29:44 PM - INFO - Getting arima datasets
+07/25/2018 02:29:51 PM - INFO - Compling arima model
+07/25/2018 02:29:51 PM - INFO - SARIMAX: (6, 1, 2) x (1, 0, 2, 12)
+07/25/2018 02:29:52 PM - INFO - Getting arima datasets
+07/25/2018 02:29:58 PM - INFO - Compling arima model
+07/25/2018 02:29:58 PM - INFO - SARIMAX: (8, 0, 2) x (8, 1, 0, 12)
+07/25/2018 02:29:58 PM - INFO - Getting arima datasets
+07/25/2018 02:30:05 PM - INFO - Compling arima model
+07/25/2018 02:30:05 PM - INFO - SARIMAX: (4, 1, 0) x (10, 2, 1, 12)
+07/25/2018 02:30:05 PM - INFO - Getting arima datasets
+07/25/2018 02:30:12 PM - INFO - Compling arima model
+07/25/2018 02:30:12 PM - INFO - SARIMAX: (10, 1, 1) x (0, 1, 1, 12)
+07/25/2018 02:30:12 PM - INFO - Getting arima datasets
+07/25/2018 02:30:19 PM - INFO - Compling arima model
+07/25/2018 02:30:19 PM - INFO - SARIMAX: (6, 2, 0) x (8, 0, 1, 12)
+07/25/2018 02:30:21 PM - INFO - Getting arima datasets
+07/25/2018 02:30:27 PM - INFO - Compling arima model
+07/25/2018 02:30:27 PM - INFO - SARIMAX: (8, 0, 0) x (4, 2, 2, 12)
+07/25/2018 02:30:41 PM - INFO - Getting arima datasets
+07/25/2018 02:30:48 PM - INFO - Compling arima model
+07/25/2018 02:30:48 PM - INFO - SARIMAX: (1, 1, 2) x (6, 2, 0, 12)
+07/25/2018 02:31:18 PM - INFO - Generation average: nan%
+07/25/2018 02:31:18 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 02:31:18 PM - INFO - ***Doing generation 2 of 3***
+07/25/2018 02:31:18 PM - INFO - Getting arima datasets
+07/25/2018 02:31:25 PM - INFO - Compling arima model
+07/25/2018 02:31:25 PM - INFO - SARIMAX: (10, 0, 2) x (0, 1, 2, 12)
+07/25/2018 02:31:29 PM - INFO - Getting arima datasets
+07/25/2018 02:31:36 PM - INFO - Compling arima model
+07/25/2018 02:31:36 PM - INFO - SARIMAX: (1, 0, 1) x (0, 1, 2, 12)
+07/25/2018 02:31:38 PM - INFO - Getting arima datasets
+07/25/2018 02:31:44 PM - INFO - Compling arima model
+07/25/2018 02:31:44 PM - INFO - SARIMAX: (10, 1, 2) x (0, 2, 0, 12)
+07/25/2018 02:31:46 PM - INFO - Getting arima datasets
+07/25/2018 02:31:53 PM - INFO - Compling arima model
+07/25/2018 02:31:53 PM - INFO - SARIMAX: (4, 1, 1) x (0, 2, 0, 12)
+07/25/2018 02:31:53 PM - INFO - Getting arima datasets
+07/25/2018 02:32:00 PM - INFO - Compling arima model
+07/25/2018 02:32:00 PM - INFO - SARIMAX: (1, 0, 2) x (4, 1, 2, 12)
+07/25/2018 02:32:05 PM - INFO - Getting arima datasets
+07/25/2018 02:32:12 PM - INFO - Compling arima model
+07/25/2018 02:32:12 PM - INFO - SARIMAX: (4, 1, 2) x (1, 1, 2, 12)
+07/25/2018 02:32:15 PM - INFO - Getting arima datasets
+07/25/2018 02:32:22 PM - INFO - Compling arima model
+07/25/2018 02:32:22 PM - INFO - SARIMAX: (10, 0, 2) x (0, 1, 1, 12)
+07/25/2018 02:32:23 PM - INFO - Getting arima datasets
+07/25/2018 02:32:30 PM - INFO - Compling arima model
+07/25/2018 02:32:30 PM - INFO - SARIMAX: (10, 0, 2) x (0, 1, 2, 12)
+07/25/2018 02:32:35 PM - INFO - Getting arima datasets
+07/25/2018 02:32:41 PM - INFO - Compling arima model
+07/25/2018 02:32:41 PM - INFO - SARIMAX: (10, 1, 1) x (0, 1, 1, 12)
+07/25/2018 02:32:42 PM - INFO - Getting arima datasets
+07/25/2018 02:32:49 PM - INFO - Compling arima model
+07/25/2018 02:32:49 PM - INFO - SARIMAX: (1, 0, 1) x (0, 1, 1, 12)
+07/25/2018 02:32:49 PM - INFO - Getting arima datasets
+07/25/2018 02:32:56 PM - INFO - Compling arima model
+07/25/2018 02:32:56 PM - INFO - SARIMAX: (6, 0, 2) x (1, 0, 2, 12)
+07/25/2018 02:32:57 PM - INFO - Generation average: nan%
+07/25/2018 02:32:57 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 02:32:57 PM - INFO - ***Doing generation 3 of 3***
+07/25/2018 02:32:57 PM - INFO - Getting arima datasets
+07/25/2018 02:33:04 PM - INFO - Compling arima model
+07/25/2018 02:33:04 PM - INFO - SARIMAX: (4, 0, 0) x (4, 1, 2, 12)
+07/25/2018 02:33:12 PM - INFO - Getting arima datasets
+07/25/2018 02:33:19 PM - INFO - Compling arima model
+07/25/2018 02:33:19 PM - INFO - SARIMAX: (4, 0, 1) x (4, 1, 2, 12)
+07/25/2018 02:33:26 PM - INFO - Getting arima datasets
+07/25/2018 02:33:33 PM - INFO - Compling arima model
+07/25/2018 02:33:33 PM - INFO - SARIMAX: (10, 2, 2) x (0, 1, 2, 12)
+07/25/2018 02:33:38 PM - INFO - Getting arima datasets
+07/25/2018 02:33:45 PM - INFO - Compling arima model
+07/25/2018 02:33:45 PM - INFO - SARIMAX: (10, 2, 1) x (1, 2, 2, 12)
+07/25/2018 02:33:50 PM - INFO - Getting arima datasets
+07/25/2018 02:33:57 PM - INFO - Compling arima model
+07/25/2018 02:33:57 PM - INFO - SARIMAX: (1, 1, 1) x (1, 1, 2, 12)
+07/25/2018 02:33:59 PM - INFO - Getting arima datasets
+07/25/2018 02:34:06 PM - INFO - Compling arima model
+07/25/2018 02:34:06 PM - INFO - SARIMAX: (4, 1, 2) x (1, 2, 2, 12)
+07/25/2018 02:34:07 PM - INFO - Getting arima datasets
+07/25/2018 02:34:13 PM - INFO - Compling arima model
+07/25/2018 02:34:13 PM - INFO - SARIMAX: (1, 0, 1) x (4, 1, 2, 12)
+07/25/2018 02:34:21 PM - INFO - Getting arima datasets
+07/25/2018 02:34:28 PM - INFO - Compling arima model
+07/25/2018 02:34:28 PM - INFO - SARIMAX: (1, 0, 1) x (4, 1, 2, 12)
+07/25/2018 02:34:34 PM - INFO - Getting arima datasets
+07/25/2018 02:34:41 PM - INFO - Compling arima model
+07/25/2018 02:34:41 PM - INFO - SARIMAX: (10, 2, 2) x (0, 2, 2, 12)
+07/25/2018 02:34:41 PM - INFO - Getting arima datasets
+07/25/2018 02:34:48 PM - INFO - Compling arima model
+07/25/2018 02:34:48 PM - INFO - SARIMAX: (6, 1, 2) x (0, 1, 2, 12)
+07/25/2018 02:34:48 PM - INFO - Getting arima datasets
+07/25/2018 02:34:55 PM - INFO - Compling arima model
+07/25/2018 02:34:55 PM - INFO - SARIMAX: (10, 0, 2) x (0, 1, 2, 12)
+07/25/2018 02:35:00 PM - INFO - Getting arima datasets
+07/25/2018 02:35:07 PM - INFO - Compling arima model
+07/25/2018 02:35:07 PM - INFO - SARIMAX: (1, 0, 1) x (0, 1, 2, 12)
+07/25/2018 02:35:09 PM - INFO - Generation average: nan%
+07/25/2018 02:35:09 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 02:35:09 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 02:35:09 PM - INFO - {'p_values': 10, 'd_values': 2, 'q_values': 2, 'sp_values': 0, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 02:35:09 PM - INFO - Network accuracy: nan%
+07/25/2018 02:35:09 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 2, 'sp_values': 0, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 02:35:09 PM - INFO - Network accuracy: 283306.05%
+07/25/2018 02:35:09 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 2, 'sp_values': 0, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 02:35:09 PM - INFO - Network accuracy: 283306.05%
+07/25/2018 02:35:09 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 1, 'sp_values': 0, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 02:35:09 PM - INFO - Network accuracy: 267036.02%
+07/25/2018 02:35:09 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 1, 'sp_values': 1, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 02:35:09 PM - INFO - Network accuracy: 263343.36%
+07/25/2018 02:55:11 PM - INFO - ***Evolving 3 generations with population 20***
+07/25/2018 02:55:11 PM - INFO - ***generate(generations, population, nn_param_choices, dataset)***
+07/25/2018 02:55:11 PM - INFO - *** Now in generation 1 of 3 ***
+07/25/2018 02:55:11 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 02:55:11 PM - INFO - {'p_values': 6, 'd_values': 2, 'q_values': 2, 'sp_values': 1, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 6, 'd_values': 1, 'q_values': 0, 'sp_values': 8, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 10, 'd_values': 2, 'q_values': 2, 'sp_values': 0, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 10, 'd_values': 2, 'q_values': 2, 'sp_values': 10, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 0, 'd_values': 0, 'q_values': 0, 'sp_values': 10, 'sd_values': 0, 'sq_values': 1}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 2, 'sp_values': 1, 'sd_values': 2, 'sq_values': 1}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 1, 'd_values': 1, 'q_values': 2, 'sp_values': 1, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 0, 'sp_values': 6, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 1, 'd_values': 2, 'q_values': 0, 'sp_values': 4, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 1, 'sp_values': 4, 'sd_values': 0, 'sq_values': 0}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 4, 'd_values': 0, 'q_values': 2, 'sp_values': 6, 'sd_values': 0, 'sq_values': 2}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 2, 'sp_values': 0, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 2, 'sp_values': 10, 'sd_values': 0, 'sq_values': 1}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 0, 'd_values': 2, 'q_values': 1, 'sp_values': 8, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 0, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 0, 'd_values': 1, 'q_values': 2, 'sp_values': 8, 'sd_values': 0, 'sq_values': 1}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 8, 'd_values': 0, 'q_values': 2, 'sp_values': 1, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 10, 'd_values': 1, 'q_values': 2, 'sp_values': 10, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - {'p_values': 8, 'd_values': 2, 'q_values': 1, 'sp_values': 6, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 02:55:11 PM - INFO - Network accuracy: 0.00%
+07/25/2018 02:55:11 PM - INFO - Getting arima datasets
+07/25/2018 02:55:18 PM - INFO - Compling arima model
+07/25/2018 02:55:18 PM - INFO - SARIMAX: (6, 2, 2) x (1, 1, 1, 12)
+07/25/2018 02:55:19 PM - INFO - Getting arima datasets
+07/25/2018 02:55:26 PM - INFO - Compling arima model
+07/25/2018 02:55:26 PM - INFO - SARIMAX: (6, 1, 0) x (8, 2, 0, 12)
+07/25/2018 02:55:26 PM - INFO - Getting arima datasets
+07/25/2018 02:55:33 PM - INFO - Compling arima model
+07/25/2018 02:55:33 PM - INFO - SARIMAX: (10, 2, 2) x (0, 2, 2, 12)
+07/25/2018 02:55:33 PM - INFO - Getting arima datasets
+07/25/2018 02:55:40 PM - INFO - Compling arima model
+07/25/2018 02:55:40 PM - INFO - SARIMAX: (10, 2, 2) x (10, 1, 0, 12)
+07/25/2018 02:55:40 PM - INFO - Getting arima datasets
+07/25/2018 02:55:47 PM - INFO - Compling arima model
+07/25/2018 02:55:47 PM - INFO - SARIMAX: (0, 0, 0) x (10, 0, 1, 12)
+07/25/2018 02:55:47 PM - INFO - Getting arima datasets
+07/25/2018 02:55:54 PM - INFO - Compling arima model
+07/25/2018 02:55:54 PM - INFO - SARIMAX: (10, 0, 2) x (1, 2, 1, 12)
+07/25/2018 02:55:58 PM - INFO - Getting arima datasets
+07/25/2018 02:56:05 PM - INFO - Compling arima model
+07/25/2018 02:56:05 PM - INFO - SARIMAX: (1, 1, 2) x (1, 2, 0, 12)
+07/25/2018 02:56:06 PM - INFO - Getting arima datasets
+07/25/2018 02:56:12 PM - INFO - Compling arima model
+07/25/2018 02:56:12 PM - INFO - SARIMAX: (6, 0, 0) x (6, 1, 0, 12)
+07/25/2018 02:56:36 PM - INFO - Getting arima datasets
+07/25/2018 02:56:43 PM - INFO - Compling arima model
+07/25/2018 02:56:43 PM - INFO - SARIMAX: (1, 2, 0) x (4, 2, 2, 12)
+07/25/2018 02:56:50 PM - INFO - Getting arima datasets
+07/25/2018 02:56:57 PM - INFO - Compling arima model
+07/25/2018 02:56:57 PM - INFO - SARIMAX: (6, 0, 1) x (4, 0, 0, 12)
+07/25/2018 02:56:59 PM - INFO - Getting arima datasets
+07/25/2018 02:57:06 PM - INFO - Compling arima model
+07/25/2018 02:57:06 PM - INFO - SARIMAX: (4, 0, 2) x (6, 0, 2, 12)
+07/25/2018 02:57:22 PM - INFO - Getting arima datasets
+07/25/2018 02:57:28 PM - INFO - Compling arima model
+07/25/2018 02:57:28 PM - INFO - SARIMAX: (10, 0, 2) x (4, 1, 2, 12)
+07/25/2018 02:57:47 PM - INFO - Getting arima datasets
+07/25/2018 02:57:54 PM - INFO - Compling arima model
+07/25/2018 02:57:54 PM - INFO - SARIMAX: (1, 0, 2) x (0, 1, 0, 12)
+07/25/2018 02:57:54 PM - INFO - Getting arima datasets
+07/25/2018 02:58:01 PM - INFO - Compling arima model
+07/25/2018 02:58:01 PM - INFO - SARIMAX: (6, 0, 2) x (10, 0, 1, 12)
+07/25/2018 02:58:01 PM - INFO - Getting arima datasets
+07/25/2018 02:58:07 PM - INFO - Compling arima model
+07/25/2018 02:58:07 PM - INFO - SARIMAX: (0, 2, 1) x (8, 2, 2, 12)
+07/25/2018 02:58:07 PM - INFO - Getting arima datasets
+07/25/2018 02:58:14 PM - INFO - Compling arima model
+07/25/2018 02:58:14 PM - INFO - SARIMAX: (10, 0, 0) x (4, 1, 2, 12)
+07/25/2018 02:58:28 PM - INFO - Getting arima datasets
+07/25/2018 02:58:35 PM - INFO - Compling arima model
+07/25/2018 02:58:35 PM - INFO - SARIMAX: (0, 1, 2) x (8, 0, 1, 12)
+07/25/2018 02:59:03 PM - INFO - Getting arima datasets
+07/25/2018 02:59:10 PM - INFO - Compling arima model
+07/25/2018 02:59:10 PM - INFO - SARIMAX: (8, 0, 2) x (1, 1, 0, 12)
+07/25/2018 02:59:12 PM - INFO - Getting arima datasets
+07/25/2018 02:59:19 PM - INFO - Compling arima model
+07/25/2018 02:59:19 PM - INFO - SARIMAX: (10, 1, 2) x (10, 2, 0, 12)
+07/25/2018 02:59:19 PM - INFO - Getting arima datasets
+07/25/2018 02:59:25 PM - INFO - Compling arima model
+07/25/2018 02:59:25 PM - INFO - SARIMAX: (8, 2, 1) x (6, 1, 0, 12)
+07/25/2018 03:00:02 PM - INFO - Generation average: nan%
+07/25/2018 03:00:02 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:00:02 PM - INFO - Generation min_mse: -11.32%
+07/25/2018 03:00:02 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:00:02 PM - INFO - *** Now in generation 2 of 3 ***
+07/25/2018 03:00:02 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:00:02 PM - INFO - {'p_values': 10, 'd_values': 2, 'q_values': 2, 'sp_values': 0, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: nan%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 127883.44%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 0, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 105685.42%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 2, 'sp_values': 0, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 52039.52%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 1, 'd_values': 1, 'q_values': 2, 'sp_values': 1, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 41986.05%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 6, 'd_values': 2, 'q_values': 2, 'sp_values': 1, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 41248.78%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 2, 'sp_values': 1, 'sd_values': 2, 'sq_values': 1}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 36254.10%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 0, 'd_values': 1, 'q_values': 2, 'sp_values': 8, 'sd_values': 0, 'sq_values': 1}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: nan%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 1, 'd_values': 2, 'q_values': 2, 'sp_values': 1, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 10, 'd_values': 2, 'q_values': 2, 'sp_values': 0, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 2, 'sp_values': 8, 'sd_values': 0, 'sq_values': 1}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 0, 'd_values': 1, 'q_values': 2, 'sp_values': 8, 'sd_values': 0, 'sq_values': 1}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 2, 'sp_values': 1, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 2, 'sp_values': 0, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 1, 'd_values': 1, 'q_values': 2, 'sp_values': 1, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 1, 'd_values': 2, 'q_values': 2, 'sp_values': 0, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 1, 'd_values': 2, 'q_values': 2, 'sp_values': 1, 'sd_values': 2, 'sq_values': 1}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:00:02 PM - INFO - {'p_values': 6, 'd_values': 1, 'q_values': 2, 'sp_values': 1, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:00:02 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:00:02 PM - INFO - Getting arima datasets
+07/25/2018 03:00:09 PM - INFO - Compling arima model
+07/25/2018 03:00:09 PM - INFO - SARIMAX: (1, 2, 2) x (1, 2, 0, 12)
+07/25/2018 03:00:10 PM - INFO - Getting arima datasets
+07/25/2018 03:00:17 PM - INFO - Compling arima model
+07/25/2018 03:00:17 PM - INFO - SARIMAX: (10, 2, 2) x (0, 2, 2, 12)
+07/25/2018 03:00:17 PM - INFO - Getting arima datasets
+07/25/2018 03:00:24 PM - INFO - Compling arima model
+07/25/2018 03:00:24 PM - INFO - SARIMAX: (1, 0, 2) x (8, 0, 1, 12)
+07/25/2018 03:00:58 PM - INFO - Getting arima datasets
+07/25/2018 03:01:05 PM - INFO - Compling arima model
+07/25/2018 03:01:05 PM - INFO - SARIMAX: (0, 1, 2) x (8, 0, 1, 12)
+07/25/2018 03:01:34 PM - INFO - Getting arima datasets
+07/25/2018 03:01:41 PM - INFO - Compling arima model
+07/25/2018 03:01:41 PM - INFO - SARIMAX: (10, 0, 2) x (4, 1, 1, 12)
+07/25/2018 03:01:54 PM - INFO - Getting arima datasets
+07/25/2018 03:02:00 PM - INFO - Compling arima model
+07/25/2018 03:02:00 PM - INFO - SARIMAX: (10, 0, 2) x (4, 1, 2, 12)
+07/25/2018 03:02:17 PM - INFO - Getting arima datasets
+07/25/2018 03:02:24 PM - INFO - Compling arima model
+07/25/2018 03:02:24 PM - INFO - SARIMAX: (1, 0, 2) x (1, 1, 1, 12)
+07/25/2018 03:02:24 PM - INFO - Getting arima datasets
+07/25/2018 03:02:31 PM - INFO - Compling arima model
+07/25/2018 03:02:31 PM - INFO - SARIMAX: (1, 0, 2) x (0, 1, 0, 12)
+07/25/2018 03:02:31 PM - INFO - Getting arima datasets
+07/25/2018 03:02:38 PM - INFO - Compling arima model
+07/25/2018 03:02:38 PM - INFO - SARIMAX: (1, 1, 2) x (1, 2, 2, 12)
+07/25/2018 03:02:42 PM - INFO - Getting arima datasets
+07/25/2018 03:02:48 PM - INFO - Compling arima model
+07/25/2018 03:02:48 PM - INFO - SARIMAX: (1, 2, 2) x (0, 2, 0, 12)
+07/25/2018 03:02:49 PM - INFO - Getting arima datasets
+07/25/2018 03:02:55 PM - INFO - Compling arima model
+07/25/2018 03:02:55 PM - INFO - SARIMAX: (1, 2, 2) x (1, 2, 1, 12)
+07/25/2018 03:02:57 PM - INFO - Getting arima datasets
+07/25/2018 03:03:04 PM - INFO - Compling arima model
+07/25/2018 03:03:04 PM - INFO - SARIMAX: (6, 1, 2) x (1, 1, 0, 12)
+07/25/2018 03:03:05 PM - INFO - Generation average: nan%
+07/25/2018 03:03:05 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:03:05 PM - INFO - Generation min_mse: -11.70%
+07/25/2018 03:03:05 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:03:05 PM - INFO - *** Now in generation 3 of 3 ***
+07/25/2018 03:03:05 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:03:05 PM - INFO - {'p_values': 10, 'd_values': 2, 'q_values': 2, 'sp_values': 0, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: nan%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 0, 'd_values': 1, 'q_values': 2, 'sp_values': 8, 'sd_values': 0, 'sq_values': 1}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: nan%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 10, 'd_values': 2, 'q_values': 2, 'sp_values': 0, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: nan%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 0, 'd_values': 1, 'q_values': 2, 'sp_values': 8, 'sd_values': 0, 'sq_values': 1}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: nan%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 1, 'd_values': 1, 'q_values': 2, 'sp_values': 1, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 183925.11%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 127883.44%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 127883.44%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 0, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 105685.42%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 2, 'sp_values': 0, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 52039.52%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 2, 'sp_values': 1, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 42439.20%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 6, 'd_values': 2, 'q_values': 2, 'sp_values': 1, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 41248.78%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 2, 'sp_values': 1, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 0, 'd_values': 1, 'q_values': 2, 'sp_values': 8, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 2, 'sp_values': 8, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 1, 'd_values': 2, 'q_values': 2, 'sp_values': 1, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 2, 'sp_values': 1, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 2, 'sp_values': 0, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 2, 'sp_values': 1, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:03:05 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 2, 'sp_values': 0, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:03:05 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:03:05 PM - INFO - Getting arima datasets
+07/25/2018 03:03:12 PM - INFO - Compling arima model
+07/25/2018 03:03:12 PM - INFO - SARIMAX: (10, 0, 2) x (4, 1, 0, 12)
+07/25/2018 03:03:23 PM - INFO - Getting arima datasets
+07/25/2018 03:03:29 PM - INFO - Compling arima model
+07/25/2018 03:03:29 PM - INFO - SARIMAX: (1, 0, 2) x (1, 1, 1, 12)
+07/25/2018 03:03:30 PM - INFO - Getting arima datasets
+07/25/2018 03:03:37 PM - INFO - Compling arima model
+07/25/2018 03:03:37 PM - INFO - SARIMAX: (0, 1, 2) x (8, 1, 1, 12)
+07/25/2018 03:03:37 PM - INFO - Getting arima datasets
+07/25/2018 03:03:44 PM - INFO - Compling arima model
+07/25/2018 03:03:44 PM - INFO - SARIMAX: (1, 0, 2) x (8, 1, 1, 12)
+07/25/2018 03:03:44 PM - INFO - Getting arima datasets
+07/25/2018 03:03:50 PM - INFO - Compling arima model
+07/25/2018 03:03:50 PM - INFO - SARIMAX: (1, 2, 2) x (1, 1, 1, 12)
+07/25/2018 03:03:51 PM - INFO - Getting arima datasets
+07/25/2018 03:03:58 PM - INFO - Compling arima model
+07/25/2018 03:03:58 PM - INFO - SARIMAX: (6, 0, 2) x (1, 1, 1, 12)
+07/25/2018 03:04:00 PM - INFO - Getting arima datasets
+07/25/2018 03:04:06 PM - INFO - Compling arima model
+07/25/2018 03:04:06 PM - INFO - SARIMAX: (1, 0, 2) x (0, 1, 0, 12)
+07/25/2018 03:04:06 PM - INFO - Getting arima datasets
+07/25/2018 03:04:13 PM - INFO - Compling arima model
+07/25/2018 03:04:13 PM - INFO - SARIMAX: (1, 0, 2) x (1, 1, 1, 12)
+07/25/2018 03:04:14 PM - INFO - Getting arima datasets
+07/25/2018 03:04:21 PM - INFO - Compling arima model
+07/25/2018 03:04:21 PM - INFO - SARIMAX: (10, 0, 2) x (0, 1, 2, 12)
+07/25/2018 03:04:25 PM - INFO - Generation average: nan%
+07/25/2018 03:04:25 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:04:25 PM - INFO - Generation min_mse: 171.74%
+07/25/2018 03:04:25 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:04:25 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:04:25 PM - INFO - {'p_values': 10, 'd_values': 2, 'q_values': 2, 'sp_values': 0, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:04:25 PM - INFO - Network accuracy: nan%
+07/25/2018 03:04:25 PM - INFO - {'p_values': 0, 'd_values': 1, 'q_values': 2, 'sp_values': 8, 'sd_values': 0, 'sq_values': 1}
+07/25/2018 03:04:25 PM - INFO - Network accuracy: nan%
+07/25/2018 03:04:25 PM - INFO - {'p_values': 10, 'd_values': 2, 'q_values': 2, 'sp_values': 0, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:04:25 PM - INFO - Network accuracy: nan%
+07/25/2018 03:04:25 PM - INFO - {'p_values': 0, 'd_values': 1, 'q_values': 2, 'sp_values': 8, 'sd_values': 0, 'sq_values': 1}
+07/25/2018 03:04:25 PM - INFO - Network accuracy: nan%
+07/25/2018 03:04:25 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:04:25 PM - INFO - Network accuracy: 17174.30%
+07/25/2018 03:28:14 PM - INFO - ***Evolving 3 generations with population 20***
+07/25/2018 03:28:14 PM - INFO - ***generate(generations, population, nn_param_choices, dataset)***
+07/25/2018 03:28:14 PM - INFO - *** Now in generation 1 of 3 ***
+07/25/2018 03:28:14 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:28:14 PM - INFO - {'p_values': 8, 'd_values': 1, 'q_values': 1, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 10, 'd_values': 2, 'q_values': 1, 'sp_values': 1, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 0, 'd_values': 0, 'q_values': 1, 'sp_values': 1, 'sd_values': 0, 'sq_values': 0}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 6, 'd_values': 2, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 0, 'sp_values': 8, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 0, 'd_values': 2, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 8, 'd_values': 2, 'q_values': 1, 'sp_values': 1, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 10, 'd_values': 1, 'q_values': 1, 'sp_values': 6, 'sd_values': 0, 'sq_values': 0}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 0, 'sp_values': 10, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 0, 'sp_values': 6, 'sd_values': 0, 'sq_values': 0}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 0, 'd_values': 2, 'q_values': 2, 'sp_values': 8, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 8, 'd_values': 2, 'q_values': 2, 'sp_values': 4, 'sd_values': 0, 'sq_values': 0}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 1, 'sp_values': 4, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 8, 'd_values': 0, 'q_values': 0, 'sp_values': 0, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 0, 'd_values': 2, 'q_values': 2, 'sp_values': 0, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 0, 'd_values': 0, 'q_values': 2, 'sp_values': 0, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 8, 'd_values': 1, 'q_values': 0, 'sp_values': 0, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 1, 'sp_values': 6, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 4, 'd_values': 1, 'q_values': 0, 'sp_values': 1, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - {'p_values': 4, 'd_values': 0, 'q_values': 2, 'sp_values': 6, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:28:14 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:28:14 PM - INFO - Getting arima datasets
+07/25/2018 03:28:21 PM - INFO - Compling arima model
+07/25/2018 03:28:21 PM - INFO - SARIMAX: (8, 1, 1) x (4, 1, 2, 12)
+07/25/2018 03:28:31 PM - INFO - Getting arima datasets
+07/25/2018 03:28:38 PM - INFO - Compling arima model
+07/25/2018 03:28:38 PM - INFO - SARIMAX: (10, 2, 1) x (1, 1, 0, 12)
+07/25/2018 03:28:39 PM - INFO - Getting arima datasets
+07/25/2018 03:28:46 PM - INFO - Compling arima model
+07/25/2018 03:28:46 PM - INFO - SARIMAX: (0, 0, 1) x (1, 0, 0, 12)
+07/25/2018 03:28:46 PM - INFO - Getting arima datasets
+07/25/2018 03:28:52 PM - INFO - Compling arima model
+07/25/2018 03:28:52 PM - INFO - SARIMAX: (6, 2, 2) x (4, 1, 2, 12)
+07/25/2018 03:29:01 PM - INFO - Getting arima datasets
+07/25/2018 03:29:08 PM - INFO - Compling arima model
+07/25/2018 03:29:08 PM - INFO - SARIMAX: (10, 0, 0) x (8, 1, 0, 12)
+07/25/2018 03:29:08 PM - INFO - Getting arima datasets
+07/25/2018 03:29:14 PM - INFO - Compling arima model
+07/25/2018 03:29:14 PM - INFO - SARIMAX: (0, 2, 2) x (4, 1, 2, 12)
+07/25/2018 03:29:21 PM - INFO - Getting arima datasets
+07/25/2018 03:29:27 PM - INFO - Compling arima model
+07/25/2018 03:29:27 PM - INFO - SARIMAX: (8, 2, 1) x (1, 1, 1, 12)
+07/25/2018 03:29:29 PM - INFO - Getting arima datasets
+07/25/2018 03:29:35 PM - INFO - Compling arima model
+07/25/2018 03:29:35 PM - INFO - SARIMAX: (10, 1, 1) x (6, 0, 0, 12)
+07/25/2018 03:29:52 PM - INFO - Getting arima datasets
+07/25/2018 03:29:59 PM - INFO - Compling arima model
+07/25/2018 03:29:59 PM - INFO - SARIMAX: (10, 0, 0) x (10, 2, 2, 12)
+07/25/2018 03:29:59 PM - INFO - Getting arima datasets
+07/25/2018 03:30:05 PM - INFO - Compling arima model
+07/25/2018 03:30:05 PM - INFO - SARIMAX: (6, 0, 0) x (6, 0, 0, 12)
+07/25/2018 03:30:15 PM - INFO - Getting arima datasets
+07/25/2018 03:30:22 PM - INFO - Compling arima model
+07/25/2018 03:30:22 PM - INFO - SARIMAX: (0, 2, 2) x (8, 2, 2, 12)
+07/25/2018 03:30:22 PM - INFO - Getting arima datasets
+07/25/2018 03:30:29 PM - INFO - Compling arima model
+07/25/2018 03:30:29 PM - INFO - SARIMAX: (8, 2, 2) x (4, 0, 0, 12)
+07/25/2018 03:30:36 PM - INFO - Getting arima datasets
+07/25/2018 03:30:42 PM - INFO - Compling arima model
+07/25/2018 03:30:42 PM - INFO - SARIMAX: (1, 0, 1) x (4, 1, 1, 12)
+07/25/2018 03:30:47 PM - INFO - Getting arima datasets
+07/25/2018 03:30:54 PM - INFO - Compling arima model
+07/25/2018 03:30:54 PM - INFO - SARIMAX: (8, 0, 0) x (0, 1, 0, 12)
+07/25/2018 03:30:54 PM - INFO - Getting arima datasets
+07/25/2018 03:31:01 PM - INFO - Compling arima model
+07/25/2018 03:31:01 PM - INFO - SARIMAX: (0, 2, 2) x (0, 2, 0, 12)
+07/25/2018 03:31:01 PM - INFO - Getting arima datasets
+07/25/2018 03:31:07 PM - INFO - Compling arima model
+07/25/2018 03:31:07 PM - INFO - SARIMAX: (0, 0, 2) x (0, 2, 0, 12)
+07/25/2018 03:31:07 PM - INFO - Getting arima datasets
+07/25/2018 03:31:14 PM - INFO - Compling arima model
+07/25/2018 03:31:14 PM - INFO - SARIMAX: (8, 1, 0) x (0, 1, 2, 12)
+07/25/2018 03:31:14 PM - INFO - Getting arima datasets
+07/25/2018 03:31:21 PM - INFO - Compling arima model
+07/25/2018 03:31:21 PM - INFO - SARIMAX: (10, 0, 1) x (6, 2, 0, 12)
+07/25/2018 03:31:23 PM - INFO - Getting arima datasets
+07/25/2018 03:31:29 PM - INFO - Compling arima model
+07/25/2018 03:31:29 PM - INFO - SARIMAX: (4, 1, 0) x (1, 1, 2, 12)
+07/25/2018 03:31:32 PM - INFO - Getting arima datasets
+07/25/2018 03:31:38 PM - INFO - Compling arima model
+07/25/2018 03:31:38 PM - INFO - SARIMAX: (4, 0, 2) x (6, 1, 1, 12)
+07/25/2018 03:31:56 PM - INFO - Generation average: nan%
+07/25/2018 03:31:56 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:31:56 PM - INFO - Generation min_mse: 36.00%
+07/25/2018 03:31:56 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:31:56 PM - INFO - *** Now in generation 2 of 3 ***
+07/25/2018 03:31:56 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:31:56 PM - INFO - {'p_values': 0, 'd_values': 2, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 164281.61%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 6, 'd_values': 2, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 126849.76%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 8, 'd_values': 1, 'q_values': 1, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 115081.30%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 8, 'd_values': 1, 'q_values': 0, 'sp_values': 0, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: nan%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 4, 'd_values': 1, 'q_values': 0, 'sp_values': 1, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 245629.21%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 0, 'd_values': 0, 'q_values': 1, 'sp_values': 1, 'sd_values': 0, 'sq_values': 0}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 55373.23%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 0, 'd_values': 0, 'q_values': 2, 'sp_values': 0, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 53310.29%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 0, 'd_values': 2, 'q_values': 2, 'sp_values': 0, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 51842.58%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 1, 'sp_values': 4, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 22449.31%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 0, 'sp_values': 6, 'sd_values': 0, 'sq_values': 0}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 13219.58%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 10, 'd_values': 0, 'q_values': 1, 'sp_values': 6, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 3600.00%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 0, 'd_values': 2, 'q_values': 2, 'sp_values': 8, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: -100.00%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 0, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 8, 'd_values': 2, 'q_values': 0, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 0, 'd_values': 0, 'q_values': 1, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 0, 'd_values': 2, 'q_values': 1, 'sp_values': 4, 'sd_values': 0, 'sq_values': 2}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 0, 'd_values': 0, 'q_values': 2, 'sp_values': 4, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 0, 'd_values': 2, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 8, 'd_values': 1, 'q_values': 1, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:31:56 PM - INFO - {'p_values': 8, 'd_values': 1, 'q_values': 1, 'sp_values': 0, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:31:56 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:31:56 PM - INFO - Getting arima datasets
+07/25/2018 03:32:03 PM - INFO - Compling arima model
+07/25/2018 03:32:03 PM - INFO - SARIMAX: (6, 0, 0) x (4, 1, 2, 12)
+07/25/2018 03:32:14 PM - INFO - Getting arima datasets
+07/25/2018 03:32:21 PM - INFO - Compling arima model
+07/25/2018 03:32:21 PM - INFO - SARIMAX: (8, 2, 0) x (4, 1, 2, 12)
+07/25/2018 03:32:30 PM - INFO - Getting arima datasets
+07/25/2018 03:32:37 PM - INFO - Compling arima model
+07/25/2018 03:32:37 PM - INFO - SARIMAX: (0, 0, 1) x (4, 1, 2, 12)
+07/25/2018 03:32:43 PM - INFO - Getting arima datasets
+07/25/2018 03:32:50 PM - INFO - Compling arima model
+07/25/2018 03:32:50 PM - INFO - SARIMAX: (0, 2, 1) x (4, 0, 2, 12)
+07/25/2018 03:32:51 PM - INFO - Getting arima datasets
+07/25/2018 03:32:58 PM - INFO - Compling arima model
+07/25/2018 03:32:58 PM - INFO - SARIMAX: (0, 0, 2) x (4, 2, 0, 12)
+07/25/2018 03:33:02 PM - INFO - Getting arima datasets
+07/25/2018 03:33:09 PM - INFO - Compling arima model
+07/25/2018 03:33:09 PM - INFO - SARIMAX: (0, 2, 2) x (4, 1, 2, 12)
+07/25/2018 03:33:15 PM - INFO - Getting arima datasets
+07/25/2018 03:33:21 PM - INFO - Compling arima model
+07/25/2018 03:33:21 PM - INFO - SARIMAX: (8, 1, 1) x (4, 1, 2, 12)
+07/25/2018 03:33:33 PM - INFO - Getting arima datasets
+07/25/2018 03:33:39 PM - INFO - Compling arima model
+07/25/2018 03:33:39 PM - INFO - SARIMAX: (8, 1, 1) x (0, 1, 2, 12)
+07/25/2018 03:33:41 PM - INFO - Generation average: nan%
+07/25/2018 03:33:41 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:33:41 PM - INFO - Generation min_mse: 36.00%
+07/25/2018 03:33:41 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:33:41 PM - INFO - *** Now in generation 3 of 3 ***
+07/25/2018 03:33:41 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:33:41 PM - INFO - {'p_values': 8, 'd_values': 1, 'q_values': 0, 'sp_values': 0, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: nan%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 8, 'd_values': 1, 'q_values': 1, 'sp_values': 0, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 390849.54%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 4, 'd_values': 1, 'q_values': 0, 'sp_values': 1, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 245629.21%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 0, 'd_values': 2, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 164281.61%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 0, 'd_values': 2, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 164281.61%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 0, 'd_values': 0, 'q_values': 1, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 133635.73%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 6, 'd_values': 2, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 126849.76%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 8, 'd_values': 2, 'q_values': 0, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 117646.92%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 8, 'd_values': 1, 'q_values': 1, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 115081.30%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 1, 'sp_values': 4, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 22449.31%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 0, 'sp_values': 6, 'sd_values': 0, 'sq_values': 0}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 13219.58%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 2, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 4, 'd_values': 2, 'q_values': 0, 'sp_values': 1, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 4, 'd_values': 1, 'q_values': 0, 'sp_values': 1, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 0, 'd_values': 1, 'q_values': 1, 'sp_values': 4, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 0, 'd_values': 1, 'q_values': 2, 'sp_values': 4, 'sd_values': 0, 'sq_values': 2}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 6, 'd_values': 2, 'q_values': 0, 'sp_values': 4, 'sd_values': 0, 'sq_values': 0}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 0, 'sp_values': 6, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:33:41 PM - INFO - {'p_values': 0, 'd_values': 0, 'q_values': 1, 'sp_values': 4, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:33:41 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:33:41 PM - INFO - Getting arima datasets
+07/25/2018 03:33:47 PM - INFO - Compling arima model
+07/25/2018 03:33:47 PM - INFO - SARIMAX: (6, 0, 2) x (4, 1, 2, 12)
+07/25/2018 03:34:00 PM - INFO - Getting arima datasets
+07/25/2018 03:34:07 PM - INFO - Compling arima model
+07/25/2018 03:34:07 PM - INFO - SARIMAX: (6, 0, 2) x (4, 1, 2, 12)
+07/25/2018 03:34:20 PM - INFO - Getting arima datasets
+07/25/2018 03:34:26 PM - INFO - Compling arima model
+07/25/2018 03:34:26 PM - INFO - SARIMAX: (4, 2, 0) x (1, 1, 2, 12)
+07/25/2018 03:34:28 PM - INFO - Getting arima datasets
+07/25/2018 03:34:35 PM - INFO - Compling arima model
+07/25/2018 03:34:35 PM - INFO - SARIMAX: (4, 1, 0) x (1, 1, 2, 12)
+07/25/2018 03:34:38 PM - INFO - Getting arima datasets
+07/25/2018 03:34:44 PM - INFO - Compling arima model
+07/25/2018 03:34:44 PM - INFO - SARIMAX: (0, 1, 1) x (4, 1, 2, 12)
+07/25/2018 03:34:49 PM - INFO - Getting arima datasets
+07/25/2018 03:34:56 PM - INFO - Compling arima model
+07/25/2018 03:34:56 PM - INFO - SARIMAX: (0, 1, 2) x (4, 0, 2, 12)
+07/25/2018 03:34:58 PM - INFO - Getting arima datasets
+07/25/2018 03:35:04 PM - INFO - Compling arima model
+07/25/2018 03:35:04 PM - INFO - SARIMAX: (6, 2, 0) x (4, 0, 0, 12)
+07/25/2018 03:35:07 PM - INFO - Getting arima datasets
+07/25/2018 03:35:14 PM - INFO - Compling arima model
+07/25/2018 03:35:14 PM - INFO - SARIMAX: (6, 0, 0) x (6, 1, 0, 12)
+07/25/2018 03:35:36 PM - INFO - Getting arima datasets
+07/25/2018 03:35:43 PM - INFO - Compling arima model
+07/25/2018 03:35:43 PM - INFO - SARIMAX: (0, 0, 1) x (4, 1, 0, 12)
+07/25/2018 03:35:43 PM - INFO - Generation average: nan%
+07/25/2018 03:35:43 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:35:43 PM - INFO - Generation min_mse: 4.20%
+07/25/2018 03:35:43 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:35:43 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:35:43 PM - INFO - {'p_values': 8, 'd_values': 1, 'q_values': 0, 'sp_values': 0, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:35:43 PM - INFO - Network accuracy: nan%
+07/25/2018 03:35:43 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 0, 'sp_values': 6, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:35:43 PM - INFO - Network accuracy: 419.60%
+07/25/2018 03:35:43 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 0, 'sp_values': 6, 'sd_values': 0, 'sq_values': 0}
+07/25/2018 03:35:43 PM - INFO - Network accuracy: 13219.58%
+07/25/2018 03:35:43 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 1, 'sp_values': 4, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:35:43 PM - INFO - Network accuracy: 22449.31%
+07/25/2018 03:35:43 PM - INFO - {'p_values': 0, 'd_values': 0, 'q_values': 1, 'sp_values': 4, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:35:43 PM - INFO - Network accuracy: 25151.16%
+07/25/2018 03:38:06 PM - INFO - ***Evolving 3 generations with population 20***
+07/25/2018 03:38:06 PM - INFO - ***generate(generations, population, nn_param_choices, dataset)***
+07/25/2018 03:38:06 PM - INFO - *** Now in generation 1 of 3 ***
+07/25/2018 03:38:06 PM - INFO - --------------------------------------------------------------------------------
+07/25/2018 03:38:06 PM - INFO - {'p_values': 4, 'd_values': 0, 'q_values': 1, 'sp_values': 6, 'sd_values': 1, 'sq_values': 0}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 8, 'd_values': 2, 'q_values': 1, 'sp_values': 6, 'sd_values': 0, 'sq_values': 0}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 1, 'd_values': 0, 'q_values': 0, 'sp_values': 10, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 1, 'd_values': 1, 'q_values': 2, 'sp_values': 0, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 0, 'd_values': 0, 'q_values': 1, 'sp_values': 1, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 0, 'd_values': 0, 'q_values': 0, 'sp_values': 10, 'sd_values': 1, 'sq_values': 2}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 8, 'd_values': 0, 'q_values': 2, 'sp_values': 1, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 4, 'd_values': 2, 'q_values': 0, 'sp_values': 0, 'sd_values': 0, 'sq_values': 2}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 0, 'd_values': 1, 'q_values': 2, 'sp_values': 1, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 4, 'd_values': 0, 'q_values': 0, 'sp_values': 6, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 8, 'd_values': 2, 'q_values': 1, 'sp_values': 10, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 8, 'd_values': 2, 'q_values': 0, 'sp_values': 0, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 8, 'd_values': 0, 'q_values': 0, 'sp_values': 6, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 4, 'd_values': 0, 'q_values': 1, 'sp_values': 6, 'sd_values': 2, 'sq_values': 0}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 6, 'd_values': 2, 'q_values': 0, 'sp_values': 8, 'sd_values': 0, 'sq_values': 2}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 6, 'd_values': 1, 'q_values': 1, 'sp_values': 10, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 6, 'd_values': 0, 'q_values': 1, 'sp_values': 8, 'sd_values': 1, 'sq_values': 1}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 8, 'd_values': 0, 'q_values': 2, 'sp_values': 10, 'sd_values': 0, 'sq_values': 1}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 8, 'd_values': 1, 'q_values': 1, 'sp_values': 1, 'sd_values': 2, 'sq_values': 1}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - {'p_values': 8, 'd_values': 2, 'q_values': 1, 'sp_values': 6, 'sd_values': 2, 'sq_values': 2}
+07/25/2018 03:38:06 PM - INFO - Network accuracy: 0.00%
+07/25/2018 03:38:06 PM - INFO - Getting arima datasets
+07/25/2018 03:38:12 PM - INFO - Compling arima model
+07/25/2018 03:38:12 PM - INFO - SARIMAX: (4, 0, 1) x (6, 1, 0, 12)
+07/25/2018 03:38:26 PM - INFO - Getting arima datasets
+07/25/2018 03:38:32 PM - INFO - Compling arima model
+07/25/2018 03:38:32 PM - INFO - SARIMAX: (8, 2, 1) x (6, 0, 0, 12)
+07/25/2018 03:38:48 PM - INFO - Getting arima datasets
+07/25/2018 03:38:55 PM - INFO - Compling arima model
+07/25/2018 03:38:55 PM - INFO - SARIMAX: (1, 0, 0) x (10, 2, 0, 12)
+07/25/2018 03:38:55 PM - INFO - Getting arima datasets
+07/25/2018 03:39:02 PM - INFO - Compling arima model
+07/25/2018 03:39:02 PM - INFO - SARIMAX: (1, 1, 2) x (0, 1, 1, 12)
+07/25/2018 03:39:02 PM - INFO - Getting arima datasets
+07/25/2018 03:39:09 PM - INFO - Compling arima model
+07/25/2018 03:39:09 PM - INFO - SARIMAX: (0, 0, 1) x (1, 1, 1, 12)
+07/25/2018 03:39:09 PM - INFO - Getting arima datasets
+07/25/2018 03:39:16 PM - INFO - Compling arima model
+07/25/2018 03:39:16 PM - INFO - SARIMAX: (0, 0, 0) x (10, 1, 2, 12)
+07/25/2018 03:39:16 PM - INFO - Getting arima datasets
+07/25/2018 03:39:22 PM - INFO - Compling arima model
+07/25/2018 03:39:22 PM - INFO - SARIMAX: (8, 0, 2) x (1, 2, 0, 12)
+07/25/2018 03:39:26 PM - INFO - Getting arima datasets
+07/25/2018 03:39:33 PM - INFO - Compling arima model
+07/25/2018 03:39:33 PM - INFO - SARIMAX: (4, 2, 0) x (0, 0, 2, 12)
+07/25/2018 03:39:33 PM - INFO - Getting arima datasets
+07/25/2018 03:39:40 PM - INFO - Compling arima model
+07/25/2018 03:39:40 PM - INFO - SARIMAX: (0, 1, 2) x (1, 2, 0, 12)
+07/25/2018 03:39:40 PM - INFO - Getting arima datasets
+07/25/2018 03:39:47 PM - INFO - Compling arima model
+07/25/2018 03:39:47 PM - INFO - SARIMAX: (4, 0, 0) x (6, 2, 0, 12)
+07/25/2018 03:39:48 PM - INFO - Getting arima datasets
+07/25/2018 03:39:55 PM - INFO - Compling arima model
+07/25/2018 03:39:55 PM - INFO - SARIMAX: (8, 2, 1) x (10, 1, 1, 12)
+07/25/2018 03:39:55 PM - INFO - Getting arima datasets
+07/25/2018 03:40:01 PM - INFO - Compling arima model
+07/25/2018 03:40:01 PM - INFO - SARIMAX: (8, 2, 0) x (0, 2, 2, 12)
+07/25/2018 03:40:02 PM - INFO - Getting arima datasets
+07/25/2018 03:40:09 PM - INFO - Compling arima model
+07/25/2018 03:40:09 PM - INFO - SARIMAX: (8, 0, 0) x (6, 2, 2, 12)
+07/25/2018 03:40:10 PM - INFO - Getting arima datasets
+07/25/2018 03:40:17 PM - INFO - Compling arima model
+07/25/2018 03:40:17 PM - INFO - SARIMAX: (4, 0, 1) x (6, 2, 0, 12)
+07/25/2018 03:40:18 PM - INFO - Getting arima datasets
+07/25/2018 03:40:25 PM - INFO - Compling arima model
+07/25/2018 03:40:25 PM - INFO - SARIMAX: (6, 2, 0) x (8, 0, 2, 12)
