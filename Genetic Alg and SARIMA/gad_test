@@ -1,6 +1,8 @@
 # HAR-stacked-residual-bidir-LSTM
 
-The project is based on [this repository](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) which is presented as a tutorial. It consists of Human Activity Recognition (HAR) using stacked residual bidirectional-LSTM cells (RNN) with TensorFlow. 
+The project is based on [this repository](https://github.com/harvitronix/neural-network-genetic-algorithm) which is presented as a tutorial. It consists of Human Activity Recognition (HAR) using stacked residual bidirectional-LSTM cells (RNN) with TensorFlow. 
+
+For more, see this blog post: https://medium.com/@harvitronix/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164
 
 It resembles to the architecture used in "[Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144.pdf)" without an attention mechanism and with just the encoder part. In fact, we started coding while thinking about applying residual connections to LSTMs - and it is only afterwards that we saw that such a deep LSTM architecture was already being used. 
 
