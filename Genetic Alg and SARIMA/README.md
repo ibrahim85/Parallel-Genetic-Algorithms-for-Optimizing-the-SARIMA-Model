@@ -42,6 +42,12 @@ To run the genetic algorithm:
  
 ```Serial_SARIMA_plots_model.ipynb```
 
+
+# Describtion of files
+- The config file can be runned like this: `config_dataset_opportunity_18_classes.py`.
+
+- The config file can be runned like this: `config_dataset_opportunity_18_classes.py`.
+
 # How to use Google Colab to run the code
 
 https://www.geeksforgeeks.org/how-to-use-google-colab/
