@@ -19,15 +19,22 @@ To run the brute force algorithm:
 
 To run the brute force algorithm:
 
+![python3 brute](python3 brute.py)
+
 ```python3 brute.py```
 
 To run the genetic algorithm:
+
+![paper6--GA--SARIMAX and arima](paper6--GA--SARIMAX and arima.ipynb)
 
 ```paper6--GA--SARIMAX and arima.ipynb```
 
  To plot the forecasting and other figures:
  
  use this file
+ 
+ ![Serial SARIMA-plots model](Serial SARIMA-plots model.ipynb)
+ 
  
 ```Serial SARIMA-plots model.ipynb```
 
