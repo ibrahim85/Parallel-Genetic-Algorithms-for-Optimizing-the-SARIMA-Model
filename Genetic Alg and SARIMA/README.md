@@ -13,7 +13,9 @@ On the NCDC dataset, we are able to quickly find the best SARIMA model.
 
 To run the brute force algorithm:
 
-```paper6--GA--SARIMAX and arima.ipynb```
+![Final_code](Final_code.ipynb)
+
+```Final_code.ipynb```
 
 To run the brute force algorithm:
 
