@@ -19,24 +19,26 @@ To run the brute force algorithm:
 
 To run the brute force algorithm:
 
-![python3 brute](python3 brute.py)
+![python3 brute](python3_brute.py)
 
-```python3 brute.py```
+```python3_brute.py```
 
 To run the genetic algorithm:
 
-![paper6--GA--SARIMAX and arima](paper6--GA--SARIMAX and arima.ipynb)
+![paper6--GA--SARIMAX and arima](paper6--GA--SARIMAX_and_arima.ipynb)
 
-```paper6--GA--SARIMAX and arima.ipynb```
+```paper6--GA--SARIMAX_and_arima.ipynb```
 
  To plot the forecasting and other figures:
  
  use this file
  
+  ![Serial_SARIMA_plots_model](Serial_SARIMA_plots_model.ipynb)
+  
  ![SARIMA_results_plot_diagnostics](SARIMA_results_plot_diagnostics.png)
  
  
-```Serial SARIMA-plots model.ipynb```
+```Serial_SARIMA_plots_model.ipynb```
 
 # How to use Google Colab to run the code
 
