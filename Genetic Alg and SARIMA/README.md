@@ -8,6 +8,8 @@ On the NCDC dataset, we are able to quickly find the best SARIMA model.
 
 ![GA_ARIMA_Parallel2](GA_ARIMA_Parallel2.png)
 
+![GA_ARIMA_Parallel3](GA_ARIMA_Parallel3.png)
+
 
 ## To run
 
