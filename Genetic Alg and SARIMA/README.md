@@ -33,7 +33,7 @@ To run the genetic algorithm:
  
  use this file
  
- ![Serial SARIMA-plots model](Serial SARIMA-plots model.ipynb)
+ ![SARIMA_results_plot_diagnostics](SARIMA_results_plot_diagnostics.png)
  
  
 ```Serial SARIMA-plots model.ipynb```
