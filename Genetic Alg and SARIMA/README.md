@@ -103,15 +103,21 @@ To run the brute force algorithm:
 - `parallel.py`: Provide the code to run parallel genetic version. the complete version in 
 ![Final_code](Final_code.ipynb)
 
-- `preprocessing.py`: To pre-process the original data 433440-99999-merge.op as shown in (https://github.com/ibrahim85/Genetic-Alg-and-SARIMA/blob/master/Genetic%20Alg%20and%20SARIMA/paper 6 -- GA--SARIMAX and arima.ipynb)
+- `preprocessing.py`: To pre-process the original data 433440-99999-merge.op as shown in (https://github.com/ibrahim85/Genetic-Alg-and-SARIMA/blob/master/Genetic%20Alg%20and%20SARIMA/paper%206%20--%20GA--SARIMAX%20and%20arima%20.ipynb)
 
 ` 
 from preprocessing import preprocess
+
 import os
+
 from os.path import isfile, join
+
 path = './'
+
 train =[]
+
 train.append(preprocess(join(path, '433440-99999-merge.op')))
+
 df=pd.concat(train)
 `
 | Index | STN    | WBAN  | YEARMODA   | TEMP | DEWP | SLP    | STP    | VISIB | WDSP | MXSPD | GUST | MAX  | MIN  | PRCP |
