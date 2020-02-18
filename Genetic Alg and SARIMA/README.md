@@ -118,7 +118,7 @@ For more, see this blog post:
 A lot of those code was originally inspired by:
 
 - http://lethain.com/genetic-algorithms-cool-name-damn-simple/
-- [this repository](https://github.com/harvitronix/neural-network-genetic-algorithm)
+- Evolve a neural network with a genetic algorithm [this repository](https://github.com/harvitronix/neural-network-genetic-algorithm)
 
 ## License
 
