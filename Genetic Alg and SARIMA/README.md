@@ -107,8 +107,6 @@ To run the brute force algorithm:
 
 For more, see this blog post: 
 
-- https://medium.com/@harvitronix/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164
-
 - https://www.geeksforgeeks.org/how-to-use-google-colab/
 
 
@@ -119,6 +117,7 @@ A lot of those code was originally inspired by:
 
 - http://lethain.com/genetic-algorithms-cool-name-damn-simple/
 - Evolve a neural network with a genetic algorithm [this repository](https://github.com/harvitronix/neural-network-genetic-algorithm)
+- https://medium.com/@harvitronix/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164
 
 ## License
 
