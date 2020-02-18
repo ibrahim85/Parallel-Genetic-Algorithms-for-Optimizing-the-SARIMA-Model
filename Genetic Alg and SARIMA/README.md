@@ -19,14 +19,14 @@ To run the Final code of the genetic algorithm:
 
 ```Final_code.ipynb```
 
-To chnage the number of generations and populations:
+1- To chnage the number of generations and populations:
 ```
 generations  = [10, 20, 50, 100, 200]  # Number of times to evole the population.
 
 populations  = [10, 50, 100, 200, 300, 400, 500]  # Number of SARIMA models in each generation.
 ```
 
-You can set your SARIMA (p, d, q) × (P, D, Q)12 parameter choices by editing the following part of code:
+2- You can set your SARIMA (p, d, q) × (P, D, Q)12 parameter choices by editing the following part of code:
 
 ```  
 def main():
@@ -43,31 +43,26 @@ def main():
     }
 ```
 
-To save the results of experiments we use score_table  data frame:
+3- To save the results of experiments we use score_table  data frame:
 
 ``` score_table.to_csv(file_name2, sep=',', encoding='utf-8', mode='a', header=True) ```
 
 
-To plot parallel time for GA-SARIMA:
+4- To plot parallel time for GA-SARIMA:
 ```
 # Get the data.
 filename='time2.csv'
 ```
 ![time_parallel](time_parallel_plot1.png)
 
-To plot time series:
+5- To plot time series:
 
 ![time_series](time_series.png)
 
-To plot One-step ahead Forecast, 95% confidence
+6- To plot One-step ahead Forecast, 95% confidence
 
 ![one_forecasting](one_forecasting.png)
 
-To run the brute force algorithm:
-
-![python3 brute](python3_brute.py)
-
-```python3_brute.py```
 
 # To select the best models based on P-VALUES
 
@@ -103,21 +98,15 @@ To run the brute force algorithm:
 - `parallel.py`: Provide the code to run parallel genetic version. the complete version in 
 ![Final_code](Final_code.ipynb)
 
-- `preprocessing.py`: To pre-process the original data 433440-99999-merge.op as shown in (https://github.com/ibrahim85/Genetic-Alg-and-SARIMA/blob/master/Genetic%20Alg%20and%20SARIMA/paper%206%20--%20GA--SARIMAX%20and%20arima%20.ipynb)
+- `preprocessing.py`: To pre-process the original data 433440-99999-merge.op as shown in ![SARIMAX and arima ](https://github.com/ibrahim85/Genetic-Alg-and-SARIMA/blob/master/Genetic%20Alg%20and%20SARIMA/paper%206%20--%20GA--SARIMAX%20and%20arima%20.ipynb)
 
 ```
 from preprocessing import preprocess
-
 import os
-
 from os.path import isfile, join
-
 path = './'
-
 train =[]
-
 train.append(preprocess(join(path, '433440-99999-merge.op')))
-
 df=pd.concat(train)
 ```
 | Index | STN    | WBAN  | YEARMODA   | TEMP | DEWP | SLP    | STP    | VISIB | WDSP | MXSPD | GUST | MAX  | MIN  | PRCP |
@@ -125,6 +114,13 @@ df=pd.concat(train)
 | 0     | 433440 | 99999 | 2000-01-01 | 76.0 | 67.9 | 1011.8 | 1001.7 | 2.8   | 8.0  | 14.0  | NaN  | 85.1 | 68.5 | 0.01 |
 | 1     | 433440 | 99999 | 2000-01-02 | 77.1 | 67.2 | 1011.8 | 1001.7 | 4.1   | 9.1  | 15.0  | NaN  | 86.0 | 68.0 | 0.00 |
 | 2     | 433440 | 99999 | 2000-01-03 | 76.0 | 68.3 | 1011.3 | 1001.3 | 2.5   | 8.3  | 14.0  | NaN  | 81.3 | 71.6 | 0.00 |
+
+
+# To run the brute force algorithm:
+
+![python3 brute](python3_brute.py)
+
+```python3_brute.py```
 
 # How to use Google Colab to run the code
 
