@@ -59,6 +59,9 @@ To plot time series:
 
 ![time_series](time_series.png)
 
+To plot One-step ahead Forecast, 95% confidence
+
+![one_forecasting](one_forecasting.png)
 
 To run the brute force algorithm:
 
@@ -66,28 +69,39 @@ To run the brute force algorithm:
 
 ```python3_brute.py```
 
-To run the genetic algorithm:
+# To select the best models based on P-VALUES
 
-![paper6--GA--SARIMAX and arima](paper6--GA--SARIMAX_and_arima.ipynb)
+- score_table: contains all best models based ( AIC, MAPE, RMSE)
 
-```paper6--GA--SARIMAX_and_arima.ipynb```
+| Index | (p,d,q)   | (P,D,Q)       | AIC      | mape     | me         | mae      | mpe       | mse       | rmse     | corr     | minmax    |
+|-------|-----------|---------------|----------|----------|------------|----------|-----------|-----------|----------|----------|-----------|
+| 792   | (9, 0, 8) | (0, 0, 0, 12) | -164.876 | 0.444529 | -0.0295986 | 0.143071 | -0.21997  | 0.0281478 | 0.167773 | 0.957295 | 0.122894  |
+| 540   | (6, 0, 7) | (0, 0, 0, 12) | -160.046 | 0.463257 | -0.034108  | 0.140457 | -0.216192 | 0.0268177 | 0.163761 | 0.959942 | 0.0968388 |
+| 229   | (1, 0, 0) | (1, 0, 1, 12) | -159.497 | 0.466809 | -0.0494717 | 0.142398 | -0.206366 | 0.0281191 | 0.167688 | 0.959793 | 0.193557  |
+| 828   | (9, 0, 9) | (0, 0, 0, 12) | -158.925 | 0.462261 | -0.0319526 | 0.145104 | -0.227347 | 0.0275848 | 0.166087 | 0.958335 | 0.122391  |
 
- To plot the forecasting and other figures:
- 
- use this file
- 
-  ![Serial_SARIMA_plots_model](Serial SARIMA- plots model.ipynb)
-  
- ![SARIMA_results_plot_diagnostics](SARIMA_results_plot_diagnostics.png)
- 
- 
-```Serial_SARIMA_plots_model.ipynb```
+- score_table2 : contains all best models FROM score_table based ( P-VALUES < 0.05)
+
+| Index | (p,d,q)   | (P,D,Q)       | AIC      | mape     | me         | mae       | mpe       | mse       | rmse     | corr     | minmax     |
+|-------|-----------|---------------|----------|----------|------------|-----------|-----------|-----------|----------|----------|------------|
+| 9     | (0, 0, 0) | (1, 0, 1, 12) | -148.177 | 0.458842 | -0.0495432 | 0.139759  | -0.200593 | 0.0272963 | 0.165216 | 0.961095 | 0.195071   |
+| 34    | (0, 0, 1) | (2, 1, 0, 12) | -110.892 | 0.367977 | 0.0122085  | 0.0945813 | -0.182121 | 0.0142993 | 0.11958  | 0.978752 | -0.263296  |
+| 90    | (1, 0, 0) | (2, 1, 0, 12) | -110.456 | 0.375643 | 0.0134213  | 0.096992  | -0.186618 | 0.0150715 | 0.122766 | 0.977709 | -0.465028  |
+| 17    | (0, 0, 0) | (2, 1, 0, 12) | -107.233 | 0.348173 | 0.0101313  | 0.0890584 | -0.170927 | 0.0126278 | 0.112373 | 0.981129 | -0.0930694 |
 
 
 # Describtion of files
-- The config file can be runned like this: `config_dataset_opportunity_18_classes.py`.
+- `allgenomes.py`: Class that keeps track of all genomes trained so far, and their scores.
+    Among other things, ensures that genomes are unique.
 
-- The config file can be runned like this: `config_dataset_opportunity_18_classes.py`.
+- `idgen.py`: Provide unique genome IDs.
+
+- `network.py`: Class that represents the model to be evolved. (UniID: Mom and Dad: Gen)
+
+- `optimizer.py`: Class that holds a genetic algorithm for evolving a model.
+
+- `parallel.py`: Provide the code to run parallel genetic version. the complete version in 
+![Final_code](Final_code.ipynb)
 
 # How to use Google Colab to run the code
 
@@ -99,7 +113,10 @@ You can set your SARIMA parameter choices by editing each of those files first. 
 
 For more, see this blog post: https://medium.com/@harvitronix/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164
 
-For a more robust implementation that you can use in your projects, take a look at Jan Liphardt's implementation, DeepEvolve.
+A lot of those code was originally inspired by:
+
+- http://lethain.com/genetic-algorithms-cool-name-damn-simple/
+- 
 
 ## License
 
