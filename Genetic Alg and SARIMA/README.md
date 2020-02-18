@@ -103,8 +103,22 @@ To run the brute force algorithm:
 - `parallel.py`: Provide the code to run parallel genetic version. the complete version in 
 ![Final_code](Final_code.ipynb)
 
-- `preprocessing.py`: To pre-process the original data 433440-99999-merge.op
-` python3 preprocessing.py input_file.txt`
+- `preprocessing.py`: To pre-process the original data 433440-99999-merge.op as shown in (https://github.com/ibrahim85/Genetic-Alg-and-SARIMA/blob/master/Genetic%20Alg%20and%20SARIMA/paper 6 -- GA--SARIMAX and arima.ipynb)
+
+` 
+from preprocessing import preprocess
+import os
+from os.path import isfile, join
+path = './'
+train =[]
+train.append(preprocess(join(path, '433440-99999-merge.op')))
+df=pd.concat(train)
+`
+| Index | STN    | WBAN  | YEARMODA   | TEMP | DEWP | SLP    | STP    | VISIB | WDSP | MXSPD | GUST | MAX  | MIN  | PRCP |
+|-------|--------|-------|------------|------|------|--------|--------|-------|------|-------|------|------|------|------|
+| 0     | 433440 | 99999 | 2000-01-01 | 76.0 | 67.9 | 1011.8 | 1001.7 | 2.8   | 8.0  | 14.0  | NaN  | 85.1 | 68.5 | 0.01 |
+| 1     | 433440 | 99999 | 2000-01-02 | 77.1 | 67.2 | 1011.8 | 1001.7 | 4.1   | 9.1  | 15.0  | NaN  | 86.0 | 68.0 | 0.00 |
+| 2     | 433440 | 99999 | 2000-01-03 | 76.0 | 68.3 | 1011.3 | 1001.3 | 2.5   | 8.3  | 14.0  | NaN  | 81.3 | 71.6 | 0.00 |
 
 # How to use Google Colab to run the code
 
