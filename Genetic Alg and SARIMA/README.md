@@ -103,6 +103,9 @@ To run the brute force algorithm:
 - `parallel.py`: Provide the code to run parallel genetic version. the complete version in 
 ![Final_code](Final_code.ipynb)
 
+- `preprocessing.py`: To pre-process the original data 433440-99999-merge.op
+` python3 preprocessing.py input_file.txt`
+
 # How to use Google Colab to run the code
 
 For more, see this blog post: 
