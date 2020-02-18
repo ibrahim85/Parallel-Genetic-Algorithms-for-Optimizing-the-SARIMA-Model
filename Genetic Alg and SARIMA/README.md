@@ -2,7 +2,7 @@
 
 This is an example of how we can use a genetic algorithm in an attempt to find the optimal SARIMA parameters for prediction tasks. 
 
-On the National Climatic Data Center (NCDC) dataset (ftp://ftp.ncdc.noaa.gov/pub/data/gsod/), we are able to quickly find the best SARIMA model. 
+On the National Climatic Data Center (NCDC) dataset ftp://ftp.ncdc.noaa.gov/pub/data/gsod/ , we are able to quickly find the best SARIMA model. 
 
 ## the basic idea of this model is:
 
