@@ -105,7 +105,7 @@ To run the brute force algorithm:
 
 - `preprocessing.py`: To pre-process the original data 433440-99999-merge.op as shown in (https://github.com/ibrahim85/Genetic-Alg-and-SARIMA/blob/master/Genetic%20Alg%20and%20SARIMA/paper%206%20--%20GA--SARIMAX%20and%20arima%20.ipynb)
 
-` 
+```
 from preprocessing import preprocess
 
 import os
@@ -119,7 +119,7 @@ train =[]
 train.append(preprocess(join(path, '433440-99999-merge.op')))
 
 df=pd.concat(train)
-`
+```
 | Index | STN    | WBAN  | YEARMODA   | TEMP | DEWP | SLP    | STP    | VISIB | WDSP | MXSPD | GUST | MAX  | MIN  | PRCP |
 |-------|--------|-------|------------|------|------|--------|--------|-------|------|-------|------|------|------|------|
 | 0     | 433440 | 99999 | 2000-01-01 | 76.0 | 67.9 | 1011.8 | 1001.7 | 2.8   | 8.0  | 14.0  | NaN  | 85.1 | 68.5 | 0.01 |
