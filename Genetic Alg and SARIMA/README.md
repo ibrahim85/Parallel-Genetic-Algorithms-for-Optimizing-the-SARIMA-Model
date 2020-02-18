@@ -53,7 +53,7 @@ To plot parallel time for GA-SARIMA:
 # Get the data.
 filename='time2.csv'
 ```
-![time_parallel](time_parallel.png)
+![time_parallel](time_parallel_plot1.png)
 
 To plot time series:
 
