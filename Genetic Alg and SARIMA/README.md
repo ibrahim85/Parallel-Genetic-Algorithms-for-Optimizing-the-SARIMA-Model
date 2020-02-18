@@ -26,7 +26,7 @@ generations  = [10, 20, 50, 100, 200]  # Number of times to evole the population
 populations  = [10, 50, 100, 200, 300, 400, 500]  # Number of SARIMA models in each generation.
 ```
 
-To set the values of the SARIMA (p, d, q) × (P, D, Q)12: 
+You can set your SARIMA (p, d, q) × (P, D, Q)12 parameter choices by editing the following part of code:
 
 ```  
 def main():
@@ -105,13 +105,15 @@ To run the brute force algorithm:
 
 # How to use Google Colab to run the code
 
-https://www.geeksforgeeks.org/how-to-use-google-colab/
+For more, see this blog post: 
 
-You can set your SARIMA parameter choices by editing each of those files first. You can also choose whether to use the NCDC or other datasets. 
+- https://medium.com/@harvitronix/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ibrahim85/Genetic-Alg-and-SARIMA/blob/master/Genetic%20Alg%20and%20SARIMA/Serial%20SARIMA-%20plots%20model.ipynb)
+- https://www.geeksforgeeks.org/how-to-use-google-colab/
 
-For more, see this blog post: https://medium.com/@harvitronix/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ibrahim85/Genetic-Alg-and-SARIMA/blob/master/Genetic%20Alg%20and%20SARIMA/Final_code.ipynb)
+
 
 A lot of those code was originally inspired by:
 
