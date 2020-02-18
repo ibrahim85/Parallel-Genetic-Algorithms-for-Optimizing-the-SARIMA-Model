@@ -4,6 +4,11 @@ This is an example of how we can use a genetic algorithm in an attempt to find t
 
 On the National Climatic Data Center (NCDC) dataset ftp://ftp.ncdc.noaa.gov/pub/data/gsod/ , we are able to quickly find the best SARIMA model. 
 
+To download the NCDC dataset:
+
+- ftp://ftp.ncdc.noaa.gov/pub/data/gsod/
+
+
 ## the basic idea of this model is:
 
 ![GA_ARIMA_Parallel2](GA_ARIMA_Parallel2.png)
