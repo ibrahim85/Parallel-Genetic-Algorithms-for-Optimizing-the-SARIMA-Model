@@ -13,11 +13,52 @@ On the NCDC dataset, we are able to quickly find the best SARIMA model.
 
 ## To run
 
-To run the brute force algorithm:
+To run the Final code of the genetic algorithm:
 
 ![Final_code](Final_code.ipynb)
 
 ```Final_code.ipynb```
+
+To chnage the number of generations and populations:
+```
+generations  = [10, 20, 50, 100, 200]  # Number of times to evole the population.
+
+populations  = [10, 50, 100, 200, 300, 400, 500]  # Number of SARIMA models in each generation.
+```
+
+To set the values of the SARIMA (p, d, q) × (P, D, Q)12: 
+
+```  
+def main():
+    """Evolve a network."""
+    generations  = [10, 20]  # Number of times to evole the population.[10, 20, 50, 100, 200]
+    populations  = [ 10, 50]  # Number of SARIMA models in each generation. [10, 50, 100, 200, 300, 400, 500]
+    nn_param_choices = {
+        'p_values' : range(0, 3),#range(0, 13)
+        'd_values' : range(0, 2),#range(0, 2)
+        'q_values' : range(0, 3),#range(0, 13)
+        'sp_values': range(0, 3),#range(0, 13)
+        'sd_values': range(0, 2),#range(0, 2)
+        'sq_values': range(0, 3) #range(0, 13)
+    }
+```
+
+To save the results of experiments we use score_table  data frame:
+
+``` score_table.to_csv(file_name2, sep=',', encoding='utf-8', mode='a', header=True) ```
+
+
+To plot parallel time for GA-SARIMA:
+```
+# Get the data.
+filename='time2.csv'
+```
+![time_parallel](time_parallel.png)
+
+To plot time series:
+
+![time_series](time_series.png)
+
 
 To run the brute force algorithm:
 
