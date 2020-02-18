@@ -9,7 +9,7 @@ To download the NCDC dataset:
 - ftp://ftp.ncdc.noaa.gov/pub/data/gsod/
 
 
-## the basic idea of this model is:
+## The basic idea of this model is:
 
 ![GA_ARIMA_Parallel2](GA_ARIMA_Parallel2.png)
 
